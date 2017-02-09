@@ -1,4 +1,4 @@
-# Tabular-Modeling-with-SQL-Server-2016-Analysis-Services-Cookbook
+# Tabular Modeling with SQL Server 2016 Analysis Services Cookbook
 Code files uploaded by Packt publishing
 
 This is the code repository for [Tabular Modeling with SQL Server 2016 Analysis Services Cookbook](https://www.packtpub.com/big-data-and-business-intelligence/tabular-modeling-sql-server-2016-analysis-services-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781786468611),published by Packt.It contains all the supporting
