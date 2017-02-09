@@ -14,10 +14,10 @@ You’ll also learn how to implement key and newly introduced DAX functions to c
 All of the code is organized into folders.Each folder starts with a number followed by the application name.
 The commands and instructions will look like the following:
 
-Total_Fatalities_GT2_MajorInjuries := SUMX( 
-FILTER(CRASH_DATA_T, CRASH_DATA_T[MAJINJURY]>2),      
-CRASH_DATA_T[FATALITIES] 
-)
+    Total_Fatalities_GT2_MajorInjuries := SUMX( 
+    FILTER(CRASH_DATA_T, CRASH_DATA_T[MAJINJURY]>2),      
+    CRASH_DATA_T[FATALITIES] 
+    )
 
 ## Note:
 Chapter 01, 02, 06, 08, 11 do not have code files.
